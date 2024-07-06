@@ -41,30 +41,30 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Leche Pinito</h5>
-                        <p class="card-text">Descripción:Leche de alta Calidad </p>
-                        <p class="card-text">Marca: Pinito</p>
-                        <p class="card-text">Precio: Q.14.00</p>
+                        <h5 class="card-title">Celular</h5>
+                        <p class="card-text">Descripción: 8 ram, 128 GB</p>
+                        <p class="card-text">Marca: Samsung</p>
+                        <p class="card-text">Precio: Q.2000.00</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Galletas Saladas</h5>
-                        <p class="card-text">Descripción:Galletas con sal</p>
-                        <p class="card-text">Marca:Suli </p>
-                        <p class="card-text">Precio: Q.7.50</p>
+                        <h5 class="card-title">Celular</h5>
+                        <p class="card-text">Descripción: 2 ram, 32 GB</p>
+                        <p class="card-text">Marca: Motorola</p>
+                        <p class="card-text">Precio: Q.600</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Pasta Ina</h5>
-                        <p class="card-text">Descripción: Pasta para Espaguetti</p>
-                        <p class="card-text">Marca:Ina </p>
-                        <p class="card-text">Precio: Q.3.00</p>
+                        <h5 class="card-title">Celular</h5>
+                        <p class="card-text">Descripción: 4 ram, 64 GB</p>
+                        <p class="card-text">Marca: Xiaomi</p>
+                        <p class="card-text">Precio: Q.1200.00</p>
                     </div>
                 </div>
             </div>
